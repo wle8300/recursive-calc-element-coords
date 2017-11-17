@@ -1,6 +1,6 @@
 {
   "name": "recursive-calc-element-coords",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get the position of an element relative to the document. The element can be nested inside absolute/relative/fixed elements, and it'll reliably get you the absolute coords. Returns an object {x: [number 0], y: [number 0]}",
   "main": "index.js",
   "scripts": {
