@@ -1,8 +1,8 @@
 module.exports = function (element) {
 
-  let aggOffsetLeft = 0
-  let aggOffestTop = 0
-  let objectCursor = element
+  var aggOffsetLeft = 0
+  var aggOffestTop = 0
+  var objectCursor = element
 
   //recursively traverse DOM element via "offsetParent" and
   //aggregate all "offsetLeft" and "offsetTop" values
